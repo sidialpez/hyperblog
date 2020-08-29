@@ -34,3 +34,9 @@ body{
     font-size:20px;
 
 }
+
+#footer{
+    background: blue;
+    color:white;
+    text-align: center;
+}
